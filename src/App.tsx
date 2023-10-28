@@ -13,7 +13,7 @@ declare global {
 function App() {
   return (
     <>
-      <h1>Vite + React</h1>
+      <h1>Vite + React + Matterport</h1>
       <matterport-viewer
         m="SxQL3iGyoDo"
         asset-base="assets"
